@@ -1,3 +1,3 @@
 # RotateAnimationDemos
 
-Three ways animated rotation
+Android three ways animated rotation
